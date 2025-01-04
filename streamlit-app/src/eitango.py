@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-df = pd.read_csv('英単語.csv')
+df = pd.read_csv('streamlit-app/src/英単語.csv')
 
 # Streamlitアプリのタイトル
 st.title('/英単語とその答え')
