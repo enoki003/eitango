@@ -4,7 +4,7 @@ import pandas as pd
 df = pd.read_csv('英単語.csv')
 
 # Streamlitアプリのタイトル
-st.title('英単語とその答え')
+st.title('/英単語とその答え')
 
 # データフレームのスタイルを設定
 styled_df = df.style.set_properties(**{
