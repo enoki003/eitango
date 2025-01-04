@@ -1,5 +1,3 @@
-以下は、ファイル `/streamlit-app/streamlit-app/src/eitango.py` の内容です。
-
 import streamlit as st
 import pandas as pd
 
